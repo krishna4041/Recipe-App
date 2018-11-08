@@ -1,7 +1,7 @@
 This is a Recipe-App created as a part of Udemy course.
 
 Home page:
-![Home page](https://imgur.com/QN8xaKb)
+![home page](https://user-images.githubusercontent.com/24780145/48217878-99443980-e3ae-11e8-940e-9835f5de2f57.png)
 
 Edit page:
-![Edit page](https://imgur.com/mchKlp6)
+![edit page](https://user-images.githubusercontent.com/24780145/48217940-b7aa3500-e3ae-11e8-87ac-353e73e43281.png)
